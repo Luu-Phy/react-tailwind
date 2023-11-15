@@ -30,6 +30,9 @@ const Hero = () => {
         <button className="bg-[#00df9a] w-[200px] rounded-md font-medium my-6 mx-auto py-3 text-black">
           Get Started
         </button>
+        <button className="bg-[#f37021] h-[40px] leading-[40px] text-center text-white w-[234px] rounded-md outline-none shadow-none appearance-none delay-0 duration-0">
+          Get Started
+        </button>
       </div>
     </div>
   )
